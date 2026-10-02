@@ -1,0 +1,4 @@
+google-adk[a2a]>=2.5.0
+google-cloud-aiplatform
+google-genai
+pandas
